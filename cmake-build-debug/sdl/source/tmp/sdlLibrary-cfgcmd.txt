@@ -1,0 +1,1 @@
+cmd='/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake;-DCMAKE_INSTALL_PREFIX=/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

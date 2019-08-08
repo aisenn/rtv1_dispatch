@@ -1,0 +1,13 @@
+# Target labels
+ sdlLibrary
+# Source files and their labels
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary-complete.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-install.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-mkdir.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-download.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-update.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-patch.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-configure.rule
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-build.rule

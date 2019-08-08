@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+43783dd922be69de8ca50fa97699b3eb CMakeFiles/sdlLibrary
+baffba49c4f0a8f4adfceaecfefe47fd CMakeFiles/sdlLibrary-complete
+c5a64f7beadb156649bb9ee345e7944d sdl/source/src/sdlLibrary-stamp/sdlLibrary-build
+59e2a71a70ae141b71780276e26f5ad9 sdl/source/src/sdlLibrary-stamp/sdlLibrary-configure
+5f0a8a120e8bceaf2138d02d6ca03ac7 sdl/source/src/sdlLibrary-stamp/sdlLibrary-download
+d74157e9638ac8b8889ae938ad903e38 sdl/source/src/sdlLibrary-stamp/sdlLibrary-install
+003c2b7cb6c96b626b94a8716963d7a2 sdl/source/src/sdlLibrary-stamp/sdlLibrary-mkdir
+e8c5e47609a6f42e0ba26699a38010dc sdl/source/src/sdlLibrary-stamp/sdlLibrary-patch
+8a1ede28468573f8a1ea09af716027b8 sdl/source/src/sdlLibrary-stamp/sdlLibrary-update

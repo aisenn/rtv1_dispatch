@@ -1,0 +1,10 @@
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/list_install_components.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/rebuild_cache.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/edit_cache.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/install/strip.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/install.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/uninstall.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/SDL2.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/install/local.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/SDL2-static.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-build/CMakeFiles/SDL2main.dir

@@ -1,0 +1,35 @@
+scene
+{
+	cam_pos(0 0 -10)
+	cam_dir(0 0 1)
+}
+
+content
+{
+    object(DIRECT)
+    {
+        pos(0 0 0)
+        rot(1 0 0)
+        intensity(1)
+    }
+	object(PLANE)
+	{
+		col(0 255 255)
+		pos(0 0 40)
+		rot(0 0 -1)
+	}
+	object(CONE)
+	{
+		col(0 100 0)
+		pos(17 15 20)
+		rot(0 1 0)
+		size(3)
+	}
+	object(CYLINDER)
+    {
+        col(255 100 0)
+        pos(0 0 20)
+        rot(1 0 0)
+        size(3)
+    }
+}

@@ -1,0 +1,4 @@
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary.dir
+/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/rtv1.dir

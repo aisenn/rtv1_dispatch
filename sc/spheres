@@ -1,0 +1,46 @@
+scene
+{
+	cam_pos(1 0 1)
+	cam_dir(0 0 1)
+}
+
+content
+{
+    object(POINT)
+	{
+		col(250 250 250)
+		pos(0 0 -90)
+		intensity(1)
+	}
+	object(SPHERE)
+	{
+		col(255 255 0) //yellow
+		pos(-6 +4 20)
+		size(2)
+	}
+	object(SPHERE)
+    {
+        col(0 255 0) //green
+        pos(0 5 20)
+        size(5)
+    }
+    object(SPHERE)
+    {
+        col(160 160 160) //grey
+        pos(-6 10 20)
+        size(1)
+    }
+    object(CYLINDER)
+    {
+        col(255 255 0)
+        pos(0 4 -80)
+        rot(1 0 0)
+        size(2)
+    }
+    object(PLANE)
+    {
+        col(0 255 255)
+        pos(0 0 20)
+        rot(0 0 -1)
+    }
+}

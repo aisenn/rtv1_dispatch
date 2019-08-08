@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/CMakeFiles/sdlLibrary-complete.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-install.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-mkdir.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-download.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-update.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-patch.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-configure.rule"
+		},
+		{
+			"file" : "/Users/aabdulla/CLionProjects/rtv1_dispatch/cmake-build-debug/sdl/source/src/sdlLibrary-stamp/sdlLibrary-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdlLibrary"
+		],
+		"name" : "sdlLibrary"
+	}
+}
